@@ -5,7 +5,8 @@
 <strong>Instrucciones:</strong><br>Se deberá implementar un programa para llevar un registro de los gimnasios suscritos a la Asociación Nacional de Gimnasios y Centros de Salud.<br>
 
   🐽 <strong>Registro de equipos:</strong><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
 
   🦴 Nombre del campo Tipo de dato<br>
   🦴 ID del gimnasio Identificador consecutivo numérico generado por el programa<br>
@@ -16,7 +17,8 @@
 
   La información de los gimnasios con los campos anteriormente especificados, se guardarán en una clase “Gimnasio” y cada una de estas se agregará a una única colección utilizando la clase ArrayList de Java<br>
 
-  🐽 <strong>Listado de gimnasios:</strong><br> En esta pantalla se listan todos los gimnasios registrados en la colección (con todos sus campos). En esta opción se debe utilizar una clase de tipo Iterator para recorrer la colección.
+  🐽 <strong>Listado de gimnasios:</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En esta pantalla se listan todos los gimnasios registrados en la colección (con todos sus campos). En     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;esta opción se debe utilizar una clase de tipo Iterator para recorrer la colección.
 
   🐽 <strong>Búsqueda y edición de un gimnasio:</strong><br> En esta pantalla se solicitará una cadena de texto, y el programa deberá buscar los gimnasios que contengan esa cadena de texto como parte del nombre. Puede ser al inicio, en el medio o al final del nombre. Una vez mostrados los registros encontrados, el usuario seleccionará un único registro para su edición. Cuando se seleccione un registro para su edición, se deberá mostrar en pantalla los campos del registro a editar con los valores actuales. El campo ID del gimnasio no podrá ser editado. Habrá un botón GUARDAR para guardar los datos
 
