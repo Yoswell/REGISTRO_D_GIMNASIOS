@@ -5,7 +5,7 @@
 <strong>Instrucciones:</strong><br>Se deberá implementar un programa para llevar un registro de los gimnasios suscritos a la Asociación Nacional de Gimnasios y Centros de Salud.<br>
 
   🐽 <strong>Registro de equipos:</strong><br>
-   &nbsp;&nbsp;En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
 
   🦴 Nombre del campo Tipo de dato<br>
   🦴 ID del gimnasio Identificador consecutivo numérico generado por el programa<br>
