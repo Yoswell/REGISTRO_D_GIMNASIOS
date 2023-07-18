@@ -2,9 +2,10 @@
 
 ![gimnasios](https://github.com/Yoswell/REGISTRO_D_GIMNASIOS/assets/113799193/fbc6d87e-ff48-42a6-86de-0db8819ee643)
 
-<strong>Instrucciones:</strong><br>Se deberá implementar un programa para llevar un registro de los gimnasios suscritos a la Asociación Nacional de Gimnasios y Centros de Salud.
+<strong>Instrucciones:</strong><br>Se deberá implementar un programa para llevar un registro de los gimnasios suscritos a la Asociación Nacional de Gimnasios y Centros de Salud.<br>
 
-  🐽 <strong>Registro de equipos:</strong><br> En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
+  🐽 <strong>Registro de equipos:</strong><br>
+   &nbsp;&nbsp;En esta pantalla se podrá incluir los datos generales de cada equipo participante, con los siguientes campos:<br><br>
 
   🦴 Nombre del campo Tipo de dato<br>
   🦴 ID del gimnasio Identificador consecutivo numérico generado por el programa<br>
