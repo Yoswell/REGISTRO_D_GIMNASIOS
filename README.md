@@ -1,6 +1,6 @@
 # REGISTRO_D_GIMNASIOS
 
-![gimnasios](https://github.com/Yoswell/REGISTRO_D_GIMNASIOS/assets/113799193/84e07c12-4808-4e22-a391-af8c9bc1ff5d)
+![gimnasios](https://github.com/Yoswell/REGISTRO_D_GIMNASIOS/assets/113799193/d8646d8f-206c-4507-bf26-6e152e509bc6)
 
 <strong>Instrucciones:</strong><br>Se deberá implementar un programa para llevar un registro de los gimnasios suscritos a la Asociación Nacional de Gimnasios y Centros de Salud.<br>
 
